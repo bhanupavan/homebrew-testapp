@@ -11,7 +11,7 @@ class Testscripts < Formula
   def install
   
 
-	bin.install "testscripts"
+	puts "Success"
 
   end
 
